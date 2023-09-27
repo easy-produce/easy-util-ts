@@ -1,6 +1,6 @@
 {
   "name": "@easyproduce/easy-util-ts",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "TsUtil",
   "main": "index.ts",
   "scripts": {
