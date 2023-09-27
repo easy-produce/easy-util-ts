@@ -1,5 +1,5 @@
 {
-  "name": "easy-util-ts",
+  "name": "@easyproduce/easy-util-ts",
   "version": "1.0.2",
   "description": "TsUtil",
   "main": "index.ts",
