@@ -1,6 +1,10 @@
 import { LOCALENUM_KEY } from '@/lib/enum/cachekey'
 import { get, isNil, isNumber, isNaN, isArray, isObject } from 'lodash';
+<<<<<<< HEAD
 import * as math from '@easyproduce/easy-util-ts/math';
+=======
+import * as math from './math';
+>>>>>>> 8f2fb58d95202fde4681aa6c6eda7c8485e6e3bc
 import dayjs from 'dayjs'
 import enumfile from '@/lib/enum/enum';
 /**
